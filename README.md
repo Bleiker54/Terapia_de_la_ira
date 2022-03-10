@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1, Cap 1
-https://uqload.com/embed-mppupjqaa6wb.html
+https://fvs.io/redirector?token=MTM1SXUrYll5K3BYbHlPcVFBVGFvMGNDUzFzQmkrMG9VckZlWEE2OUJMcmIzaEpOa2FWNjh6Y1UvSklsT2Z5WXdOdDVLNDJTcG5zRDA0TjZiRGtOZTg0ZEsyZy9KUXdtMHJVSW4xRjZNalA1Ukx5SVgxcG1wMTFITkc2dCt0VmpKaW9lMmRKdkJUekRYNnM2ZjZvbEptMFdBTTZ3bldDR096U086ZjZZOHpTMm9JTGhrRVpCSXdpLzdwZz09uonr
 
 
 #EXTINF:-1, Cap 2
